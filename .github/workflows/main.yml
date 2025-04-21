@@ -1,0 +1,58 @@
+project:
+  name: SweetChinMusic
+  version: 1.0.0
+  description: A lightweight desktop music player with playlist support and streaming capabilities.
+
+repository:
+  type: git
+  url: https://github.com/Retin-ite/SweetChinMusic
+
+authors:
+  - name: Harshit Gatyan
+    email: harshit0332.becse24@chitkara.edu.in
+    role: Developer
+
+dependencies:
+  - name: pygame
+    version: ">=2.0"
+  - name: mutagen
+    version: "^1.45"
+  - name: requests
+    version: "^2.25"
+
+build:
+  system: custom
+  steps:
+    - step: Install dependencies
+      command: pip install -r requirements.txt
+    - step: Run unit tests
+      command: pytest tests/
+    - step: Package application
+      command: python setup.py sdist
+
+environments:
+  development:
+    os: Windows/Linux/Mac
+    python: "3.9+"
+  production:
+    os: Windows
+    python: "3.9"
+
+scm:
+  tool: git
+  branch: main
+  versioning: semantic
+
+ci_cd:
+  provider: GitHub Actions
+  enabled: true
+  workflows:
+    - name: Build and Test
+      on: [push, pull_request]
+      jobs:
+        - build
+        - test
+
+notes:
+  - Ensure all media files are under `assets/`
+  - Use `.env` for API keys or config secrets
