@@ -12,7 +12,7 @@ const sidebar = document.querySelector('.container .sidebar');
 menuOpen.addEventListener('click', () => sidebar.style.left = '0');
 menuClose.addEventListener('click', () => sidebar.style.left = '-100%');
 
-// Music playback logic
+// Music playback logic .
 const playButton = document.querySelector('.play-button');
 const audioPlayer = document.getElementById('audio-player');
 
