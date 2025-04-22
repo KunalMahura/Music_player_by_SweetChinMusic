@@ -13,7 +13,7 @@ A modern, responsive web-based music player UI built with **HTML**, **CSS**, and
 ## ✨ Features
 
 - 🎧 **Trending Section** – Highlights new music with title, artist, and play count.
-- 🎵 **Genre-Based Filtering** – Lists categories like Hindi, Punjabi, Hip-Hop, etc.
+- 🎵 **Genre-Based Filtering** – Lists categories like Hindi, Punjabi, urdu ,  Hip-Hop, etc.
 - 🧾 **Library & Playlists** – Shows saved albums, recent plays, and user playlists.
 - 🔊 **Responsive Music Player** – Play/pause with a working audio element.
 - 📱 **Fully Responsive Design** – Looks great on desktop, tablet, and mobile.
