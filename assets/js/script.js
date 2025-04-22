@@ -8,13 +8,13 @@
 
 const musicData = [
   {
-    backgroundImage: "./assets/images/poster-1.jpg",
-    posterUrl: "./assets/images/poster-1.jpg",
-    title: "Happy Moments (Master)",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit x Tonion",
-    musicPath: "./assets/music/music-1.mp3",
+    backgroundImage: "./assets/images/Wavy.jpg",
+    posterUrl: "./assets/images/Wavy.jpg",
+    title: "Wavy",
+    album: "Wavy",
+    year: 2024,
+    artist: "Karan Aujla",
+    musicPath: "./assets/music/Wavy - Karan Aujla.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-2.jpg",
