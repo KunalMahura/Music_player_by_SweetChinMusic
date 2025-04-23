@@ -77,7 +77,7 @@ const musicData = [
     album: "Making Memories",
     year: 2024,
     artist: "Karan Aujla",
-    musicPath: "./assets/music/hothon.mp3",
+    musicPath: "./assets/music/Softly.mp3",
   },
 
  
