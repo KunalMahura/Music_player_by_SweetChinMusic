@@ -1,7 +1,7 @@
 # Music_player_by_SweetChinMusic
 # 🎵 SweetChinMusic Player
 
-A modern, responsive web-based music player UI built with **HTML**, **CSS**, and **JavaScript**. Designed with a sleek layout and dynamic sidebar, this project mimics the aesthetics of popular streaming platforms with added music playback functionality.
+A modern , responsive web-based music player UI built with **HTML**, **CSS**, and **JavaScript**. Designed with a sleek layout and dynamic sidebar, this project mimics the aesthetics of popular streaming platforms with added music playback functionality.
 
 ---
 
