@@ -76,7 +76,7 @@ const musicData = [
     title: "Softly",
     album: "Making Memories",
     year: 2024,
-    artist: "Jagjit Singh",
+    artist: "Karan Aujla",
     musicPath: "./assets/music/hothon.mp3",
   },
 
