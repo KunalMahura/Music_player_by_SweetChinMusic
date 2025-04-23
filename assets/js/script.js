@@ -64,8 +64,8 @@ const musicData = [
     {
     backgroundImage: "./assets/images/gumaan.jpg",
     posterUrl: "./assets/images/gumaan.jpg",
-    title: "Hothon se chhu lo tum",
-    album: "Dard-E-Jigar",
+    title: "Gumaan",
+    album: "Gumaan",
     year: 1981,
     artist: "Jagjit Singh",
     musicPath: "./assets/music/hothon.mp3",
