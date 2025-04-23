@@ -70,6 +70,15 @@ const musicData = [
     artist: "Talha Anjum",
     musicPath: "./assets/music/Gumaan.mp3",
   },
+    {
+    backgroundImage: "./assets/images/.jpg",
+    posterUrl: "./assets/images/.jpg",
+    title: "",
+    album: "",
+    year: 1981,
+    artist: "Jagjit Singh",
+    musicPath: "./assets/music/hothon.mp3",
+  },
 
  
 ];
