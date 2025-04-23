@@ -58,7 +58,7 @@ const musicData = [
     title: "Level",
     album: "Level",
     year: 2024,
-    artist: "Karan Aujla",
+    artist: "Sidhu Moosewala",
     musicPath: "./assets/music/level.mp3",
   },
 
