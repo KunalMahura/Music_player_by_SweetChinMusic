@@ -6,7 +6,7 @@ A modern , responsive web-based music player UI built with **HTML**, **CSS**, an
 ---
 
 ## 📁 Project Structure
-📦 music-player/ ├── index.html # Main structure and layout of the app ├── style.css # Custom styling and responsive design ├── script.js # JavaScript for sidebar toggling and playback ├── project.yaml # Project metadata in YAML format └── assets/ └── your-music-file.mp3
+📦 music-player/ ├── index.html # Main structure and layout of the app  ├── style.css # Custom styling and responsive design ├── script.js # JavaScript for sidebar toggling and playback ├── project.yaml # Project metadata in YAML format └── assets/ └── your-music-file.mp3
 
 ---
 
