@@ -35,8 +35,8 @@ const musicData = [
     musicPath: "./assets/music/tumsehi.mp3",
   },
   {
-    backgroundImage: "./assets/images/brown.jpg",
-    posterUrl: "./assets/images/brown.jpg",
+    backgroundImage: "./assets/images/Brown.jpg",
+    posterUrl: "./assets/images/Brown.jpg",
     title: "Brown Rang",
     album: "International Villager",
     year: 2011,
