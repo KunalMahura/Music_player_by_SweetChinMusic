@@ -66,9 +66,9 @@ const musicData = [
     posterUrl: "./assets/images/gumaan.jpg",
     title: "Gumaan",
     album: "Gumaan",
-    year: 1981,
-    artist: "Jagjit Singh",
-    musicPath: "./assets/music/hothon.mp3",
+    year: 2022,
+    artist: "Talha Anjum",
+    musicPath: "./assets/music/Gumaan.mp3",
   },
 
  
