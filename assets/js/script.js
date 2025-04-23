@@ -71,8 +71,8 @@ const musicData = [
     musicPath: "./assets/music/Gumaan.mp3",
   },
     {
-    backgroundImage: "./assets/images/.jpg",
-    posterUrl: "./assets/images/.jpg",
+    backgroundImage: "./assets/images/softly.jpg",
+    posterUrl: "./assets/images/softly.jpg",
     title: "",
     album: "",
     year: 1981,
