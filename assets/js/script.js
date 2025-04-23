@@ -52,6 +52,15 @@ const musicData = [
     artist: "YoYo Honey Singh",
     musicPath: "./assets/music/desikalakar.mp3",
   },
+    {
+    backgroundImage: "./assets/images/level.jpg",
+    posterUrl: "./assets/images/level.jpg",
+    title: "Wavy",
+    album: "Wavy",
+    year: 2024,
+    artist: "Karan Aujla",
+    musicPath: "./assets/music/level.mp3",
+  },
 
  
 ];
