@@ -55,8 +55,8 @@ const musicData = [
     {
     backgroundImage: "./assets/images/level.jpg",
     posterUrl: "./assets/images/level.jpg",
-    title: "Wavy",
-    album: "Wavy",
+    title: "Level",
+    album: "Level",
     year: 2024,
     artist: "Karan Aujla",
     musicPath: "./assets/music/level.mp3",
