@@ -7,7 +7,7 @@
  */
 
 const musicData = [
-  {
+    {
     backgroundImage: "./assets/images/Wavy.jpg",
     posterUrl: "./assets/images/Wavy.jpg",
     title: "Wavy",
@@ -52,6 +52,8 @@ const musicData = [
     artist: "YoYo Honey Singh",
     musicPath: "./assets/music/desikalakar.mp3",
   },
+
+ 
 ];
 
 
