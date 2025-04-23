@@ -73,9 +73,9 @@ const musicData = [
     {
     backgroundImage: "./assets/images/softly.jpg",
     posterUrl: "./assets/images/softly.jpg",
-    title: "",
-    album: "",
-    year: 1981,
+    title: "Softly",
+    album: "Making Memories",
+    year: 2024,
     artist: "Jagjit Singh",
     musicPath: "./assets/music/hothon.mp3",
   },
