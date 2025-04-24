@@ -79,6 +79,15 @@ const musicData = [
     artist: "Karan Aujla",
     musicPath: "./assets/music/Softly.mp3",
   },
+    {
+    backgroundImage: "./assets/images/Dairy.jpg",
+    posterUrl: "./assets/images/Dairy.jpg",
+    title: "Dairy",
+    album: "Judda2",
+    year: 2015,
+    artist: "Amrinder Gill",
+    musicPath: "./assets/music/Dairy.mp3",
+  },
 
  
 ];
