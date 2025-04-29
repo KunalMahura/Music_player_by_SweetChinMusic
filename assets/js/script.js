@@ -88,6 +88,15 @@ const musicData = [
     artist: "Amrinder Gill",
     musicPath: "./assets/music/Dairy.mp3",
   },
+     {
+    backgroundImage: "./assets/images/Tareefan.jpg",
+    posterUrl: "./assets/images/Tareefan.jpg",
+    title: "Tareefan",
+    album: "Tareefan",
+    year: 2024,
+    artist: "Karan Aujla",
+    musicPath: "./assets/music/Tareefan.mp3",
+  },
 
  
 ];
