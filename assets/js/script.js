@@ -125,6 +125,15 @@ const musicData = [
     artist: "Nusrat Fateh Ali Khan",
     musicPath: "./assets/music/Sanu.mp3",
   },
+    {
+    backgroundImage: "./assets/images/luka.jpg",
+    posterUrl: "./assets/images/luka.jpg",
+    title: "Hothon se chhu lo tum",
+    album: "Dard-E-Jigar",
+    year: 1981,
+    artist: "Jagjit Singh",
+    musicPath: "./assets/music/hothon.mp3",
+  },
  
 ];
 
