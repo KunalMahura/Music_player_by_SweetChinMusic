@@ -117,13 +117,13 @@ const musicData = [
     musicPath: "./assets/music/tumsehi.mp3",
   },
   {
-    backgroundImage: "./assets/images/sanu.jpg",
-    posterUrl: "./assets/images/sanu.jpg",
+    backgroundImage: "./assets/images/Sanu.jpg",
+    posterUrl: "./assets/images/Sanu.jpg",
     title: "Sanu ek pal chain na aave",
     album: "Bolo ali Bolo",
     year: 1992 ,
     artist: "Nusrat Fateh Ali Khan",
-    musicPath: "./assets/music/sanu.mp3",
+    musicPath: "./assets/music/Sanu.mp3",
   },
  
 ];
