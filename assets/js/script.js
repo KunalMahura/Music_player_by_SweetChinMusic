@@ -128,9 +128,9 @@ const musicData = [
     {
     backgroundImage: "./assets/images/luka.jpg",
     posterUrl: "./assets/images/luka.jpg",
-    title: "Hothon se chhu lo tum",
-    album: "Dard-E-Jigar",
-    year: 1981,
+    title: "Luka Chippi",
+    album: "Luka Chippi",
+    year: 2022,
     artist: "Jagjit Singh",
     musicPath: "./assets/music/hothon.mp3",
   },
