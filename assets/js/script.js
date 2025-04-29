@@ -131,8 +131,8 @@ const musicData = [
     title: "Luka Chippi",
     album: "Luka Chippi",
     year: 2022,
-    artist: "Jagjit Singh",
-    musicPath: "./assets/music/hothon.mp3",
+    artist: "Seedhe Maut",
+    musicPath: "./assets/music/luka.mp3",
   },
  
 ];
