@@ -97,7 +97,34 @@ const musicData = [
     artist: "Karan Aujla",
     musicPath: "./assets/music/Tareefan.mp3",
   },
-
+    
+  {
+    backgroundImage: "./assets/images/hothon.jpg",
+    posterUrl: "./assets/images/hothon.jpg",
+    title: "Hothon se chhu lo tum",
+    album: "Dard-E-Jigar",
+    year: 1981,
+    artist: "Jagjit Singh",
+    musicPath: "./assets/music/hothon.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/tumsehi.jpg",
+    posterUrl: "./assets/images/tumsehi.jpg",
+    title: "Tum Se Hi",
+    album: "Jab We Met",
+    year: 2007,
+    artist: "Pritam X Mohit Chauhan",
+    musicPath: "./assets/music/tumsehi.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/sanu.jpg",
+    posterUrl: "./assets/images/sanu.jpg",
+    title: "Sanu ek pal chain na aave",
+    album: "Bolo ali Bolo",
+    year: 1992 ,
+    artist: "Nusrat Fateh Ali Khan",
+    musicPath: "./assets/music/sanu.mp3",
+  },
  
 ];
 
